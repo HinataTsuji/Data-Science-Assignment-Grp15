@@ -1,14 +1,14 @@
 # Data-Science-Assignment-Grp15
 ## Introduction
-# For this WIA1007 Introduction to Data Science course assignment, we utilized a comprehensive automotive dataset sourced from Kaggle to investigate the primary factors that influence used car valuations. Our problem statement focuses on identifying how variables like mileage, brand origin, and car age affect market prices, with the goal of providing data-driven insights for potential buyers and sellers. Through our analysis, we successfully categorized local versus foreign market trends and established clear depreciation patterns that can guide more informed purchasing decisions.
+### For this WIA1007 Introduction to Data Science course assignment, we utilized a comprehensive automotive dataset sourced from Kaggle to investigate the primary factors that influence used car valuations. Our problem statement focuses on identifying how variables like mileage, brand origin, and car age affect market prices, with the goal of providing data-driven insights for potential buyers and sellers. Through our analysis, we successfully categorized local versus foreign market trends and established clear depreciation patterns that can guide more informed purchasing decisions.
 ## Data Processing
-# Data_Processing.ipynb
+### Data_Processing.ipynb
 ## Exploratory Data Analysis
-# EDA_DSAssignment.ipynb
+### EDA_DSAssignment.ipynb
 ## Machine Learning Model
-# ML_DataScience.ipynb
+### ML_DataScience.ipynb
 ## Conclusion
-# In conclusion, our Exploratory Data Analysis has successfully unveiled the primary drivers of car depreciation within the Malaysian market. By leveraging a comprehensive dataset from Kaggle, we were able to move beyond raw numbers to identify meaningful socio-economic patterns in vehicle valuation.
+### In conclusion, our Exploratory Data Analysis has successfully unveiled the primary drivers of car depreciation within the Malaysian market. By leveraging a comprehensive dataset from Kaggle, we were able to move beyond raw numbers to identify meaningful socio-economic patterns in vehicle valuation.
 
 Key Takeaways
 The Power of Origin: Brand origin serves as the strongest predictor of depreciation speed; while Foreign (Continental) cars command higher initial prices, they experience a much steeper value drop compared to Local (Proton/Perodua) brands.
